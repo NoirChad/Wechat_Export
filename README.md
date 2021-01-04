@@ -29,7 +29,7 @@ In each line after colon, delete 0x and add all other characters, then add 0x at
 0x5e9231a51d0c4c25998358d255739e98e5d7fa650b3d463083f968d5dae931bc
 ```
 
-Then download a sqlite browser, for example, https://links.jianshu.com/go?to=https%3A%2F%2Fsqlitebrowser.org%2F
+Then download a sqlite browser, for example, https://sqlitebrowser.org/
 Open a new database-change RAW-KEY from paraphrase-input Password-Select SQLCipher 3 defaults. Then you will be able to edit databases, or export csv to do analysis.
 
 I would prefer to use the first method, as databases are stored into a couple of .db files throught the backup on mac in Wechat app.
