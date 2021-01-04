@@ -24,8 +24,11 @@ Then get a key like this:
 0x60000363e170: 0xe5 0xd7 0xfa 0x65 0x0b 0x3d 0x46 0x30
 0x60000363e178: 0x83 0xf9 0x68 0xd5 0xda 0xe9 0x31 0xbc
 ```
-In each line after colon, delete 0x and add all other characters, then add 0x at the start. For example: ```0x5e9231a51d0c4c25998358d255739e98e5d7fa650b3d463083f968d5dae931bc
+In each line after colon, delete 0x and add all other characters, then add 0x at the start. For example: 
 ```
+0x5e9231a51d0c4c25998358d255739e98e5d7fa650b3d463083f968d5dae931bc
+```
+
 Then download a sqlite browser, for example, https://links.jianshu.com/go?to=https%3A%2F%2Fsqlitebrowser.org%2F
 Open a new database-change RAW-KEY from paraphrase-input Password-Select SQLCipher 3 defaults. Then you will be able to edit databases, or export csv to do analysis.
 
